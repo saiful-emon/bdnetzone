@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0B0F0D"/>
+  <path d="M14 38 C 24 24, 40 20, 52 24" stroke="#47BA3D" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <path d="M18 44 C 27 34, 40 30, 49 32" stroke="#47BA3D" stroke-width="3" stroke-linecap="round" fill="none" opacity=".8"/>
+  <path d="M52 10 L54.2 17 L61 19.2 L54.2 21.4 L52 28.4 L49.8 21.4 L43 19.2 L49.8 17 Z" fill="#6BE05A"/>
+  <text x="14" y="56" font-family="Arial,sans-serif" font-weight="800" font-size="17" fill="#fff" font-style="italic">NZ</text>
+</svg>
